@@ -1,6 +1,7 @@
 
   # Task Attack
   ![alt text](client/public/assets/images/screenshots/proj3ss.png)
+  
   [Heroku](https://task-attack.herokuapp.com/)
 
   ![user badge](https://img.shields.io/badge/license-MIT-red)
@@ -12,7 +13,6 @@
 
 ## Table of Contents 
  
-- [Installation](#Installation) 
 
 - [Usage](#Usage) 
 
@@ -25,15 +25,10 @@
 - [Questions](#Questions) 
 
 
-## Installation  
-
-```
-yarn
-```
-
 ## Usage 
 As a user, I have a lot of different tasks to do, and I want to keep them organized on a kanban-like interface. 
-When I am logged in i am taken to my page of boards in order to select which project i’d like to continue working on. 
+When I am logged in to https://task-attack.herokuapp.com/, i am taken to my page of boards in order to select which project i’d like to continue working on. 
+I can add my project under the "ToDO","In Progress" or "Done" columns. I can move a specific task from one colum to the other. I can always use the dots on the task header to see my task category if there are too many tasks lined-up. I can also delete tasks in any of the columns.
 
 ## License 
 
@@ -41,6 +36,7 @@ This project is licensed under MIT license.
 
 ## Contributing 
 
+We are open to and welcome your contributions. Contact the developers below.
 
 ## Tests 
 
