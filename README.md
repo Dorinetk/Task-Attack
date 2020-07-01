@@ -7,7 +7,8 @@
 
 ## Description 
  
-  This is a kanban board type app. It allows users to organize tasks for multiple projects as they complete different aspects of it. They'll be able to track the items they've completed and what's left as well as items they'd like to add one day in the future.
+  This is a kanban board type app. It allows users to organize tasks for multiple projects as they complete different aspects of it. They'll be able to track the items they've completed and what's left as well as items they'd like to add one day in the future. 
+ The deployed version is available at: https://task-attack.herokuapp.com/. The local GitHub repository: https://github.com/Dorinetk/Task-Attack.
 
 ## Table of Contents 
  
