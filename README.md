@@ -1,6 +1,14 @@
 
   # Task Attack
-  ![alt text](client/public/assets/images/screenshots/proj3ss.png)
+  ![alt View of Home Page](client/public/assets/images/screenshots/proj3ss.png)
+![view of home page](<./Screen Shot 2020-06-30 at 8.37.36 PM.png>)
+![view of to do column](<./Screen Shot 2020-06-30 at 8.39.01 PM.png>)
+![Same task moved to "In Progress"](<./Screen Shot 2020-06-30 at 8.39.39 PM.png>)
+![Same task moved to "Done"](<./Screen Shot 2020-06-30 at 8.40.03 PM.png>)
+
+
+ 
+   
   
   [Heroku](https://task-attack.herokuapp.com/)
 
